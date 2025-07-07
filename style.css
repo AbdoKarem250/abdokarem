@@ -149,7 +149,10 @@ audio{
         position: relative;
         bottom: 12%;
     }
-   
+   body{
+       background-color:red;
+   }
+       
 }
 
 @media (min-width:992px) and (max-width:1199px){
