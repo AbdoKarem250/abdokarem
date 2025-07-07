@@ -121,13 +121,14 @@ audio{
 @media(min-width:576px) and (max-width:767px){
     audio{
         position: relative;
-        top: 15px;
+        top: 25px;
         width: 20%;
+        height:10%
     }
     .text2 p{
         font-size: 80%;
         position: relative;
-        top: 100px;
+        top: 190px;
     }
     .text{
         font-size: 70%;
