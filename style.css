@@ -182,22 +182,22 @@ audio{
 @media(min-width:1200px) and (max-width:1399px){
   
     .text2 p{
-        font-size: 130%;
+        font-size: 160%;
         position: relative;
-        top: 110px;
+        top: 90px;
     }
     audio{
         position: relative;
-        top: 150px;
+        top: 120px;
         width: 40%;
     }
     .text{
-        font-size: 110%;
+        font-size: 90%;
         position: relative;
-        top: 50px;
+        top: 40px;
     }
     .icons i {
-       font-size: 1.7rem;
+       font-size: 1.5rem;
         position: relative;
         bottom: 15%;
     }
