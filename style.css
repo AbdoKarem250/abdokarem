@@ -123,9 +123,10 @@ audio{
         position: relative;
         top: 80px;
         width: 40%;
-       
     }
-    
+    body{
+        background-color:red;
+    }
 }
 /* Tablet */
 @media(min-width:768px) and (max-width:991px){
@@ -183,7 +184,9 @@ audio{
     .title{
         font-size: 75%;
     }
-    
+    body{
+        background:blue;
+    }
 }
 @media(min-width:1200px) and (max-width:1399px){
   
