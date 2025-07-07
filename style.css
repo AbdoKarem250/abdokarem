@@ -122,21 +122,21 @@ audio{
     audio{
         position: relative;
         top: 25px;
-        width: 20%;
-        height:25%
+        width: 12%;
+       
     }
     .text2 p{
         font-size: 80%;
         position: relative;
-        top: 50px;
+        top: 35px;
     }
     .text{
         font-size: 70%;
         position: relative;
-        top: 40px;
+        top: 25px;
     }
      .imge img{
-    width: 17%;
+    width: 13%;
     height:auto;
 }
             .title{
