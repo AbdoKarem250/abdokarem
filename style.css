@@ -130,29 +130,32 @@ audio{
 /* Tablet */
 @media(min-width:768px) and (max-width:991px){
     .text2 p{
-        font-size: 150%;
+        font-size: 200%;
         position: relative;
-        top: 100px;
+        top: 130px;
     }
     audio{
         position: relative;
-        top: 160px;
+        top: 200px;
         width: 50%;
     }
     .text{
-        font-size: 115%;
+        font-size: 130%;
         position: relative;
-        top: 60px;
+        top: 100px;
     }
     .icons i {
-       font-size: 1.25rem;
+       font-size: 1.5rem;
         position: relative;
         bottom: 12%;
     }
-   body{
-       background-color:red;
-   }
-       
+  .imge img{
+    width: 50%;
+    height:auto;
+}
+        .title{
+        font-size: 100%;
+    }
 }
 
 @media (min-width:992px) and (max-width:1199px){
