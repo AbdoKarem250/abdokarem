@@ -184,11 +184,11 @@ audio{
     .text2 p{
         font-size: 160%;
         position: relative;
-        top: 90px;
+        top: 70px;
     }
     audio{
         position: relative;
-        top: 120px;
+        top: 90px;
         width: 40%;
     }
     .text{
@@ -197,7 +197,7 @@ audio{
         top: 40px;
     }
     .icons i {
-       font-size: 1.5rem;
+       font-size: 1.3rem;
         position: relative;
         bottom: 15%;
     }
