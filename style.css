@@ -188,11 +188,11 @@ audio{
     }
     audio{
         position: relative;
-        top: 700px;
+        top: 70px;
         width: 40%;
     }
     .text{
-        font-size: 105%;
+        font-size: 110%;
         position: relative;
         top: 40px;
     }
