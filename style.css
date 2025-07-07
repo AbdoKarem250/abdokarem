@@ -123,7 +123,7 @@ audio{
         position: relative;
         top: 25px;
         width: 20%;
-        height:10%
+        height:25%
     }
     .text2 p{
         font-size: 80%;
@@ -136,14 +136,14 @@ audio{
         top: 40px;
     }
      .imge img{
-    width: 10%;
+    width: 17%;
     height:auto;
 }
             .title{
         font-size: 40%;
     }
     .icons i {
-       font-size: 10px;
+       font-size: 13px;
         position: relative;
         bottom: 18%;
     }
